@@ -1,0 +1,3 @@
+[submodule "server_watering_managment"]
+	path = server_watering_managment
+	url = https://github.com/khacthiennguyen/server_watering_managment.git
