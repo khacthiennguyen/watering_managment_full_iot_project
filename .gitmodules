@@ -1,3 +1,6 @@
 [submodule "server_watering_managment"]
 	path = server_watering_managment
 	url = https://github.com/khacthiennguyen/server_watering_managment.git
+[submodule "app_client_watering_managment"]
+	path = app_client_watering_managment
+	url = https://github.com/khacthiennguyen/app_client_watering_managment.git
