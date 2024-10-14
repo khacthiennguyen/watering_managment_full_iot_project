@@ -10,3 +10,7 @@ Mobile Dashboard Management: Manage the system via a mobile dashboard.
 
 Multi-Sensor Management: Support for managing multiple sensors.
 
+
+# doc
+
+https://khacthiennguyen.notion.site/IOT-PROJECT-36b1e0ce29994f448375c7d1b4391f46
